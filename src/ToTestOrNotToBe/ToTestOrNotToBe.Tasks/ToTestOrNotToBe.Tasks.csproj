@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Task0\FixedChargeCalculator.cs" />
+    <Compile Include="Task0\IChargeCalculator.cs" />
     <Compile Include="Task1\OpenDayStatusChecker.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
