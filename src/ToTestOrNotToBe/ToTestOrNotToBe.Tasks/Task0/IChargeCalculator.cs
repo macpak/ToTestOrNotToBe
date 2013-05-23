@@ -2,6 +2,6 @@
 {
     public interface IChargeCalculator
     {
-        decimal Calculate(decimal transactionAmount, int numberOfTransaction);
+        decimal Calculate(int numberOfTransaction);
     }
 }
