@@ -1,0 +1,1 @@
+﻿Zadanie polega na napisaniu testów jednostkowych dla klasy FixedChargeCalculator

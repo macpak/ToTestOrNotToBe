@@ -45,6 +45,11 @@
     <Compile Include="Task0\IChargeCalculator.cs" />
     <Compile Include="Task1\OpenDayStatusChecker.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Task0\Readme.txt" />
+    <Content Include="Task1\Readme.txt" />
+    <Content Include="Task2\Readme.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
